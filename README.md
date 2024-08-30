@@ -1,7 +1,7 @@
 # Olá, eu sou Flávio Fagundes 👋
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário intuitivas e estéticas. Com experiência em HTML, CSS, JavaScript e frameworks modernos como React e Vue.js, busco constantemente aprender novas tecnologias e melhorar minhas habilidades.
+Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário intuitivas e estéticas. Com experiência em HTML, CSS, JavaScript e frameworks modernos como React, busco constantemente aprender novas tecnologias e melhorar minhas habilidades.
 
 ## 🔧 Tecnologias e Ferramentas
 - **Linguagens**: HTML, CSS, JavaScript, TypeScript
@@ -18,8 +18,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário intui
 2. **[Tribute Page - O Terno](https://github.com/seunome/tribute-page-o-terno)**
    - **Descrição**: Uma página web em homenagem à banda **O Terno**, criada como parte da certificação de Responsive Web Design do freeCodeCamp. O design é inspirado na capa do álbum "atrás/além" e utiliza HTML e CSS para uma apresentação simples e elegante.
    - **Tecnologias**: HTML5, CSS3 (Flexbox, Media Queries)
-   - **Acesse**:
-     - [Visualize o Projeto ao Vivo](https://flkvio.github.io/fcc-tribute-page/)
+   - **Acesse**: [Visualize o Projeto ao Vivo](https://flkvio.github.io/fcc-tribute-page/)
 
 <!-- - **[Nome do Projeto 3](link-para-repositorio)**: Breve descrição do projeto e as tecnologias usadas. -->
 
