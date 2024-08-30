@@ -13,11 +13,15 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário intui
 1. **[PokeAPI - Interface Web de Pokémon](https://github.com/flkvio/pokemon-api)**
    - **Descrição**: Aplicação web que consome a [PokeAPI](https://pokeapi.co/) para exibir informações sobre Pokémon. Demonstra habilidades em integração com APIs, com um design responsivo e interativo.
    - **Tecnologias**: HTML5, CSS3, JavaScript
-   - **Acesse ao Vivo**: [Visualize o Projeto](https://flkvio.github.io/pokemon-api/)
+   - **Acesse**: [Visualize o Projeto](https://flkvio.github.io/pokemon-api/)
 
+2. **[Tribute Page - O Terno](https://github.com/seunome/tribute-page-o-terno)**
+   - **Descrição**: Uma página web em homenagem à banda **O Terno**, criada como parte da certificação de Responsive Web Design do freeCodeCamp. O design é inspirado na capa do álbum "atrás/além" e utiliza HTML e CSS para uma apresentação simples e elegante.
+   - **Tecnologias**: HTML5, CSS3 (Flexbox, Media Queries)
+   - **Acesse**:
+     - [Visualize o Projeto ao Vivo](https://flkvio.github.io/fcc-tribute-page/)
 
-- **[Nome do Projeto 2](link-para-repositorio)**: Breve descrição do projeto e as tecnologias usadas.
-- **[Nome do Projeto 3](link-para-repositorio)**: Breve descrição do projeto e as tecnologias usadas.
+<!-- - **[Nome do Projeto 3](link-para-repositorio)**: Breve descrição do projeto e as tecnologias usadas. -->
 
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=flkvio&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
